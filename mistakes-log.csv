@@ -1,0 +1,10 @@
+date,category,you_wrote,correct,rule,status,fixed_date
+2026-05-30,être,j'a été,j'ai été,"je auxiliary is 'ai' not 'a' (a = il/elle)",open,
+2026-05-30,être,serant,seront,"future endings are -ai/-as/-a/-ons/-ez/-ont — never -ant",open,
+2026-05-30,faire,ils marcher,ils font,"do/make = faire (ils font); marcher = to walk",open,
+2026-05-30,futur-proche,je vais a parler,je vais parler,"aller + infinitive takes NO à",open,
+2026-05-30,aller,tu auras à Paris,tu vas à Paris,"go to a place = aller + à; auras = 'will have'",open,
+2026-05-30,devoir,nous devons aller,nous devons partir,"leave = partir; aller = to go",open,
+2026-05-30,vouloir,je vuex drais,je voudrais,"voudrais = one word (polite 'I would like')",open,
+2026-05-30,vocab,gâtauex,gâteau,"spelling: gâteau (cake)",open,
+2026-05-30,vocab,coffe,café,"coffee = café",open
