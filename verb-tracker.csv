@@ -3,13 +3,13 @@ rank,infinitive,english,box,total_reviews,correct,lapses,last_review,next_review
 2,avoir,to have,1,0,0,0,,,new
 3,faire,to do/make,1,1,0,0,2026-05-30,2026-05-31,learning
 4,dire,to say,1,0,0,0,,,new
-5,pouvoir,can/to be able,1,0,0,0,,,new
+5,pouvoir,can/to be able,2,1,1,0,2026-05-30,2026-06-01,learning
 6,aller,to go,1,1,0,0,2026-05-30,2026-05-31,learning
 7,voir,to see,1,0,0,0,,,new
 8,savoir,to know,1,0,0,0,,,new
-9,vouloir,to want,1,0,0,0,,,new
+9,vouloir,to want,2,1,1,0,2026-05-30,2026-06-01,learning
 10,venir,to come,1,0,0,0,,,new
-11,devoir,must/to have to,1,0,0,0,,,new
+11,devoir,must/to have to,2,1,1,0,2026-05-30,2026-06-01,learning
 12,prendre,to take,1,0,0,0,,,new
 13,trouver,to find,1,0,0,0,,,new
 14,donner,to give,1,0,0,0,,,new
