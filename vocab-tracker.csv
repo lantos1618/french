@@ -1,0 +1,16 @@
+french,english,theme,box,total_reviews,correct,lapses,last_review,next_review,status
+entrer (dans),to enter,house-movement,1,1,1,0,2026-06-01,2026-06-02,learning
+sortir (de),to go out,house-movement,1,1,1,0,2026-06-01,2026-06-02,learning
+dormir,to sleep,daily-routine,1,1,1,0,2026-06-01,2026-06-02,learning
+se doucher,to shower,daily-routine,1,1,1,0,2026-06-01,2026-06-02,learning
+jardiner,to garden,daily-routine,1,1,1,0,2026-06-01,2026-06-02,learning
+faire la cuisine,to cook,daily-routine,1,1,1,0,2026-06-01,2026-06-02,learning
+j'ai faim,I'm hungry,expressions,1,1,1,0,2026-06-01,2026-06-02,learning
+j'ai soif,I'm thirsty,expressions,1,1,1,0,2026-06-01,2026-06-02,learning
+la pomme,apple,food-fruit,1,0,0,0,,,new
+la banane,banana,food-fruit,1,0,0,0,,,new
+la poire,pear,food-fruit,1,0,0,0,,,new
+le petit déjeuner,breakfast,food-meals,1,0,0,0,,,new
+le déjeuner,lunch,food-meals,1,0,0,0,,,new
+le dîner,dinner,food-meals,1,0,0,0,,,new
+la colline,hill,places,1,0,0,0,,,new
